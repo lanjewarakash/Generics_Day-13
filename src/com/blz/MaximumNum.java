@@ -9,6 +9,7 @@ public class MaximumNum<T extends Comparable> {
         this.x = x;
         this.y = y;
         this.z = z;
+        
     }
 
     public void printMaxStrings() {
