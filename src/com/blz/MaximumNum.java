@@ -8,10 +8,10 @@ public class MaximumNum<T extends Comparable> {
     public MaximumNum(T x, T y, T z) {
         this.x = x;
         this.y = y;
-        this.z = z; 
+        this.z = z;
     }
 
-    public void printMax() {
+    public void printMaxStrings() {
         com.blz.MaximumNum.printMax(x, y, z);
     }
 
